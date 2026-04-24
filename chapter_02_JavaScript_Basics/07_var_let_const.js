@@ -30,7 +30,7 @@ var b = 50;
 console.log(b);
 //But if we try to reassign let and const it will not allow
 
-// let - Block scoped
+// let - Block scoped  (let aur const hamesha block ke ander hi restrict rehta hai , wahin dekhe hai)
 let c = 20;
 console.log(c);
 

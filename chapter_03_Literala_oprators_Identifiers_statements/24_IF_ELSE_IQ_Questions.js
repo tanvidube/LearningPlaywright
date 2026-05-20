@@ -14,3 +14,5 @@ if (!NaN) console.log("NaN is true"); // NaN is false in JS
 
 
 
+
+

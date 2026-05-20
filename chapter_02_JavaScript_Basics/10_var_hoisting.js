@@ -1,5 +1,5 @@
 console.log(a) // ReferenceError: a is not defined 
-// if right just this then we will get this error
+// if we right just this then we will get this error
 
 console.log("dasdasdas");
 console.log("dasdasdas");

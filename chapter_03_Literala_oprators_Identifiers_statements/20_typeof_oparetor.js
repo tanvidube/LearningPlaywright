@@ -18,3 +18,4 @@ console.log(typeof obj); // "object" -this is a bug in java script
 console.log(typeof arr); // "object"
 console.log(typeof func); // "function"
 console.log(typeof n); // "object" - this is also a bug in java script
+console.log(typeof null);

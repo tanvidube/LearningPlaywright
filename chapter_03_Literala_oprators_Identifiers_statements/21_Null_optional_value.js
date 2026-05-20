@@ -7,3 +7,5 @@ let a = null ?? 'default' // it is just a way to safe gaurd against the null val
 
 a = a + 'Tanvi';
 console.log(a);
+
+console.log('5' + 3);

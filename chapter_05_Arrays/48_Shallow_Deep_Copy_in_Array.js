@@ -15,7 +15,7 @@ console.log(copy4)
 console.log("----------------------------------------------------------")
 
 copy1.push(99)
-console.log(original) //Nothing will chnage in original
+console.log(original) //Nothing will change in original
 console.log(copy1) //but copy1 will change
 
 original.push(100)

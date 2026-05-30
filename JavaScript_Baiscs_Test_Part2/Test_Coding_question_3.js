@@ -14,7 +14,7 @@ do {
 
 } while (isSccuess && attemptNum < MAX_ATTEMPT) */
 
-// Need to review later    
+// Need to review later  , this might need Math.random   
 
 
 

@@ -8,10 +8,10 @@
 //name(90); //Calling of function
 
 
-
+//j
 let score;
 
-function getScore(score){
+function getScore(score) {
     return score > 40 ? 'Pass' : 'Fail';
 }
 
